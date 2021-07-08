@@ -1,0 +1,26 @@
+{
+  "name": "owo-discord",
+  "version": "1.0.0",
+  "description": "owoify discord messages",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchangrh/owo-discord.git"
+  },
+  "keywords": [
+    "owo"
+  ],
+  "author": "Michael Chang <michael@mchang.name>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mchangrh/owo-discord/issues"
+  },
+  "homepage": "https://github.com/mchangrh/owo-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
